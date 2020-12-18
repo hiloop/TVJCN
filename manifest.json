@@ -1,0 +1,12 @@
+{
+  "name": "TradingView Japanese Corporation Name",
+  "description" : "TradingViewのウォッチリストでシンボルを証券コードから会社名に書き換えます。",
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://*.tradingview.com/chart/*"],
+      "js": ["jquery-3.5.1.min.js","script.js"]
+    }
+  ]
+}

@@ -1,1 +1,1 @@
-# TVJCN
+# Tradig View Japanese Corporation Name
