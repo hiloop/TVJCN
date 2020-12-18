@@ -1,1 +1,1 @@
-# Tradig View Japanese Corporation Name
+# Trading View Japanese Corporation Name
